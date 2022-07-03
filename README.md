@@ -33,3 +33,5 @@
 <li>Шаг 5: Созданные сценарии проверяются вашим руководителем. Позже они также рассматриваются другими заинтересованными сторонами в проекте.
 </ul>
 ![image](https://user-images.githubusercontent.com/90381005/176847125-b961e0e2-fbe0-487b-9388-1ccaaae0b14f.png)
+![image](https://user-images.githubusercontent.com/90381005/177056455-5fc12404-ef5c-4078-96b0-4934811bf0b5.png)
+
